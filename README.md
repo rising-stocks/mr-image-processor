@@ -20,6 +20,14 @@ The script is designed to be used from the command line with straightforward arg
 - Detailed logging
 - Command-line interface with intuitive arguments
 
+### Example Conversion
+
+Below is an example of the conversion from DICOM to normalized NIfTI:
+
+![DICOM to NIfTI Conversion](docs/images/dicom_nifti_comparison.png)
+
+*Left: Original DICOM image, Right: Converted NIfTI with uint8 normalization*
+
 ## Requirements
 
 - Python 3.6+
